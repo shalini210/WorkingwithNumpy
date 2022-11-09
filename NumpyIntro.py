@@ -5,6 +5,7 @@ print(ary)
 
 print("sum of all the elements : "+ str(ary.sum()))
 print(ary+1)
+
 ary = ary+1
 print(ary)
 ary = ary-2
